@@ -1,7 +1,3 @@
-Got it! Here's a refined `README.md` in Markdown format, combining the best elements of your drafts, titled `Zero_Entreno_2025`, and with "tiempo real" removed, focusing on efficiency and insightful analysis.
-
----
-
 # Zero_Entreno_2025: Inferencia de Tono y Tema en Noticias
 
 Este proyecto innovador se centra en la **clasificación automática de texto** para **analizar el tono (sentimiento)** y **categorizar el tema** de resúmenes de noticias. Ofrece una flexibilidad única al permitir ambos enfoques: uno que aprovecha un **entrenamiento previo con datos manuales** para máxima precisión, y otro que opera en un **modo "Zero-Shot" (sin entrenamiento específico)**, ideal para una implementación rápida y la exploración de nuevos dominios.
