@@ -1,5 +1,3 @@
----
-
 # Zero_Entreno_2025: Inferencia de Tono y Tema en Noticias
 
 Este proyecto unifica la **clasificación automática de texto** para **analizar el tono (sentimiento)** y **categorizar el tema** en resúmenes de noticias. Ofrece una solución dual y flexible: puede operar en un **modo "Zero-Shot"** para un análisis rápido sin necesidad de entrenamiento previo, o aprovechar **datos manualmente codificados** para un entrenamiento supervisado que refina la precisión en dominios específicos.
