@@ -2,7 +2,7 @@
 
 Este proyecto de vanguardia se enfoca en la **clasificación automática de texto** para el **análisis de tono (sentimiento)** y la **categorización temática** de resúmenes de noticias. Ofrece una solución dual y flexible, capaz de operar tanto con un **enfoque "Zero-Shot" (sin entrenamiento explícito)** para una implementación ágil, como con un **enfoque basado en entrenamiento supervisado** utilizando datos manualmente codificados para alcanzar la máxima precisión en dominios específicos.
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1x12TMUWPBT9lgqRBlZJcZssCOSNCopQ9#scrollTo=wA0J-p4zfroC)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1x12TMUWPBT9lgqRBlZJcZssCOSNCopQ9#scrollTo=8T0NTLANOshM)
 
 ---
 
