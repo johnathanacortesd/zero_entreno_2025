@@ -96,13 +96,7 @@ Este proyecto se apoya en una serie de librerías de Python para su funcionamien
 
 ## 🛠️ Estructura del Proyecto
 
-* `notebooks/`: Contiene los notebooks de Google Colab (`.ipynb`) con la lógica de inferencia para ambos enfoques, así como los experimentos y análisis originales.
-* `data/`: Directorio centralizado para almacenar:
-    * Archivos de entrada (`.xlsx`) con las noticias a analizar.
-    * Archivos de entrenamiento (`.xlsx`) con noticias previamente codificadas (para el enfoque supervisado).
-    * Resultados de las clasificaciones (`.xlsx`).
-* `models/`: Directorio dedicado a guardar los modelos entrenados (`.pkl`) y vectorizadores serializados, cuando se utiliza el enfoque supervisado.
-* `scripts/`: Scripts Python auxiliares para tareas de procesamiento o predicción que puedan ser ejecutadas fuera de los notebooks.
+* `Zero_Entreno_2025.ipynb`: Contiene los notebooks de Google Colab (`.ipynb`) con la lógica de inferencia para ambos enfoques, así como los experimentos y análisis originales.
 * `requirements.txt`: Lista de todas las dependencias del proyecto, útil para replicar el entorno localmente.
 * `README.md`: Esta documentación principal.
 
