@@ -123,7 +123,7 @@ Para poner en marcha este proyecto en tu entorno Google Colab:
     * Si utilizas el modo con entrenamiento, los notebooks te indicarán cómo subir los archivos `.xlsx` de entrenamiento (noticias previamente analizadas) y los archivos `.xlsx` de prueba (nuevas noticias a analizar).
 
 4.  **Ejecuta el análisis:**
-    * Abre los notebooks relevantes en la carpeta `notebooks/` en Google Colab.
+    * Abre el notebook `Zero_Entreno_2025.ipynb` en Google Colab.
     * Sigue las instrucciones específicas dentro de cada notebook para ejecutar el análisis de tono o tema, y para seleccionar el enfoque (Zero-Shot o con entrenamiento) deseado.
     * Para el modo Zero-Shot, puedes personalizar las listas de "temas a inferir" o "palabras clave de sentimiento" directamente en el código del notebook.
 
